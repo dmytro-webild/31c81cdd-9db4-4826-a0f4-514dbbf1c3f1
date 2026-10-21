@@ -26,7 +26,7 @@ export default function HomePage() {
       }}
       leftItems={[
         {
-          imageSrc: "https://images.pexels.com/photos/29173120/pexels-photo-29173120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+          imageSrc: "https://images.pexels.com/photos/29173120/pexels-photo-29173120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&_wi=1",
         },
         {
           imageSrc: "https://images.pexels.com/photos/33865562/pexels-photo-33865562.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
