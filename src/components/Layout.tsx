@@ -119,7 +119,7 @@ export default function Layout() {
           href: "#",
         },
       ]}
-      imageSrc="https://images.pexels.com/photos/29173120/pexels-photo-29173120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+      imageSrc="https://images.pexels.com/photos/29173120/pexels-photo-29173120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940&_wi=2"
     />
       </SectionErrorBoundary>
     </StyleProvider>
