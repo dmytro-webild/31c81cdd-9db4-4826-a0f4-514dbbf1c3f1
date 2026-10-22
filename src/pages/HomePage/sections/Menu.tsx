@@ -15,7 +15,7 @@ const features = [
   {
     title: "Build Your Own Dessert",
     description: "Pancakes (£5.00), French Toast (£5.50), Waffles (£5.50), Brownies (£5.00-£7.00). Add toppings & sprinkles (+£1.00): Ferrero Rocher, Kinder Bueno, Oreo, Strawberries & more.",
-    imageSrc: "https://picsum.photos/seed/218544309/1200/800"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792670565129-uxcys727.jpg"
   },
   {
     title: "Luxury Cheesecakes",
