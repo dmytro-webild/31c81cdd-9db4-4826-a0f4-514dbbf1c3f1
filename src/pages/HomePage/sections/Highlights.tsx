@@ -23,9 +23,9 @@ const items = [
     imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792670399929-98ve9rak.jpg"
   },
   {
-    title: "Kids Meal",
-    description: "Perfect portion for the little ones.",
-    imageSrc: "https://images.pexels.com/photos/27175594/pexels-photo-27175594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    title: "Phat Loaded Box",
+    description: "Burger, loaded fries, tender bites & cheese dip.",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792670731835-y7m3o2wa.jpg"
   },
   {
     title: "Peanut Butter Shake",
