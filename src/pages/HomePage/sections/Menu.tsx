@@ -10,7 +10,7 @@ const features = [
   {
     title: "Flamin' Hot Loaded Box",
     description: "Loaded chicken tender bites, Flamin' Cheetos, melted cheese, pickles & crispy golden tater tots.",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792662393342-ob23zsxw.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792663517219-25l8ai4l.jpg"
   },
   {
     title: "Build Your Own Dessert",
