@@ -13,12 +13,14 @@ import MetricsSection from './HomePage/sections/Metrics';
 import FaqSection from './HomePage/sections/Faq';
 import ContactSection from './HomePage/sections/Contact';
 
-export default function HomePage(): React.JSX.Element {
+
+import DessertMenuSection from './HomePage/sections/DessertMenu';export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
 
   <MenuSection />
+      <DessertMenuSection />
 
   <HighlightsSection />
 

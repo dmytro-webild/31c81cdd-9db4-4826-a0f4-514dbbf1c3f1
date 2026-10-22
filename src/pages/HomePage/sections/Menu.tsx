@@ -8,24 +8,24 @@ import { cls } from "@/lib/utils";
 
 const features = [
   {
-    title: "Premium Angus Burgers",
-    description: "4oz Angus beef patties on artisan buns.",
-    imageSrc: "https://images.pexels.com/photos/15953046/pexels-photo-15953046.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    title: "Flamin' Hot Loaded Box",
+    description: "Loaded chicken tender bites, Flamin' Cheetos, melted cheese, pickles & crispy golden tater tots.",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792662393342-ob23zsxw.jpg"
   },
   {
-    title: "Crispy Chicken Wings",
-    description: "Tossed in your choice of signature sauces.",
-    imageSrc: "https://images.pexels.com/photos/33101863/pexels-photo-33101863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    title: "Build Your Own Dessert",
+    description: "Pancakes (£5.00), French Toast (£5.50), Waffles (£5.50), Brownies (£5.00-£7.00). Add toppings & sprinkles (+£1.00): Ferrero Rocher, Kinder Bueno, Oreo, Strawberries & more.",
+    imageSrc: "https://picsum.photos/seed/218544309/1200/800"
   },
   {
-    title: "Signature Shakes",
-    description: "Indulgent Strawberry Cheesecake & Peanut Butter.",
-    imageSrc: "https://images.pexels.com/photos/33694865/pexels-photo-33694865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    title: "Luxury Cheesecakes",
+    description: "Ferrero Cheesecake with Nutella (£8.00), Luxury Oreo (£8.00), Salted Caramel (£8.00), and Strawberry Cheesecake with vanilla & puree (£7.50).",
+    imageSrc: "https://picsum.photos/seed/313042379/1200/800"
   },
   {
-    title: "Volcano Cheese Nuggets",
-    description: "A spicy, melted cheese explosion in every bite.",
-    imageSrc: "https://images.pexels.com/photos/1137473/pexels-photo-1137473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    title: "Warm Cakes & Custard",
+    description: "Kellogg's Cornflake Tart (£8.00), Chocolate Fudge Cake (£6.50), Warmed Fudge Cake & Custard (£6.50), Jam & Coconut Sponge (£7.00).",
+    imageSrc: "https://picsum.photos/seed/1177648557/1200/800"
   }
 ];
 const primaryButton = {
