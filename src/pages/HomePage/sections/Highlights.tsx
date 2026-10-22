@@ -18,9 +18,9 @@ const items = [
     imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792669878316-s0b1ix0b.jpg"
   },
   {
-    title: "Bao Beef Burger",
-    description: "Our unique fusion creation.",
-    imageSrc: "https://images.pexels.com/photos/18580149/pexels-photo-18580149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    title: "Phat Slider Box",
+    description: "Loaded sliders, tater tots & signature dips.",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3L1fKEi7syqDZZj0Okb2aocaQf1/uploaded-1792670399929-98ve9rak.jpg"
   },
   {
     title: "Kids Meal",
