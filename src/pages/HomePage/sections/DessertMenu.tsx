@@ -1,9 +1,26 @@
 import TextAnimation from "@/components/ui/TextAnimation";
 import ScrollReveal from "@/components/ui/ScrollReveal";
 import Tag from "@/components/ui/Tag";
-import Card from "@/components/ui/Card";
 
-const desserts = [
+type DessertItem = {
+  name: string;
+  price: string;
+  desc?: string;
+};
+
+type DessertExtra = {
+  title: string;
+  list: string;
+};
+
+type DessertCategory = {
+  category: string;
+  subtitle: string;
+  items: DessertItem[];
+  extras?: DessertExtra[];
+};
+
+const desserts: DessertCategory[] = [
   {
     category: "Build Your Own Dessert",
     subtitle: "Base Options",
@@ -44,8 +61,8 @@ const desserts = [
 export default function DessertMenuSection() {
   return (
     <div data-webild-section="dessert-menu" id="dessert-menu">
-      <section aria-label="Dessert Menu" className="py-20">
-        <div className="flex flex-col gap-10 w-content-width mx-auto">
+      <section aria-label="Dessert Menu" className="">
+        <div className="flex flex-col w-content-width mx-auto">
           <div className="flex flex-col items-center gap-3 text-center">
             <Tag text="Desserts & Sweets" />
             <TextAnimation
@@ -60,7 +77,7 @@ export default function DessertMenuSection() {
               variant="fade-blur"
               gradientText={false}
               tag="p"
-              className="text-lg text-accent max-w-2xl"
+              className="text-lg text-accent max-w-content-width"
             />
           </div>
 
